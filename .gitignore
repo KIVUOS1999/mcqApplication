@@ -1,0 +1,25 @@
+/api/node_modules
+/application/website/node_modules
+/.vscode
+
+# dependencies
+/application/website/node_modules
+/application/website/.pnp
+/application/website/.pnp.js
+
+# testing
+/application/website/coverage
+
+# production
+/application/website/build
+
+# misc
+/application/website/.DS_Store
+/application/website/.env.local
+/application/website/.env.development.local
+/application/website/.env.test.local
+/application/website/.env.production.local
+
+/application/website/npm-debug.log*
+/application/website/yarn-debug.log*
+/application/website/yarn-error.log*
